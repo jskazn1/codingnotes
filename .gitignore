@@ -1,0 +1,3 @@
+.DS_Store
+node_modules
+# !node_modules/myPublicLibrary lets you unignore a specific file in an ignored directory
