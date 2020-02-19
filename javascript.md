@@ -18,7 +18,7 @@ function adder(a, b){
 // function call
 adder(2,3) // returns 5
 
-// this is exactly the same
+// this is exactly the same. => is equivalent to return
 var adder = (a,b) => (a + b)
 
 // asynchronous functions
