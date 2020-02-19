@@ -8,6 +8,8 @@
 
 `git push origin master`: push to github
 
+`git remote add origin https://....`: to change the remote URL 
+
 `git status`: check which files have changed
 
 note: the `.gitignore` file lets you add "ignored" files and directories. ALWAYS
@@ -25,4 +27,7 @@ add "node_modules" to `.gitignore`
 
 `git merge branch-name`: merge your current branch with branch-name
 
+### Pulling
+
 `git pull origin branch-name`: pull from GitHub
+
